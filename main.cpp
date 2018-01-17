@@ -7,3 +7,4 @@ develop magnet-1
 追加修正２
 追加周世３
 枝で修正１
+githubから修正
